@@ -178,4 +178,5 @@
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0175-combine-two-tables) |
+| [0182-duplicate-emails](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
