@@ -170,4 +170,8 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0042-trapping-rain-water) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
