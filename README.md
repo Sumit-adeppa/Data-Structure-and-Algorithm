@@ -183,6 +183,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0191-number-of-1-bits) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 ## Greedy
 |  |
@@ -242,6 +243,7 @@
 | ------- |
 | [0136-single-number](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0137-single-number-ii) |
+| [0191-number-of-1-bits](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0268-missing-number) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 ## Counting
