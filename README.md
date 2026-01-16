@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0239-sliding-window-maximum) |
 | [0643-maximum-average-subarray-i](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0643-maximum-average-subarray-i) |
@@ -15,6 +16,7 @@
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0345-reverse-vowels-of-a-string) |
 | [0567-permutation-in-string](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0567-permutation-in-string) |
@@ -23,6 +25,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0209-minimum-size-subarray-sum) |
 | [0658-find-k-closest-elements](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0713-subarray-product-less-than-k) |
