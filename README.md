@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0016-3sum-closest) |
@@ -70,6 +71,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0004-median-of-two-sorted-arrays) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0268-missing-number) |
@@ -171,6 +173,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0169-majority-element) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 ## Greedy
