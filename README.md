@@ -23,6 +23,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0076-minimum-window-substring) |
 | [0239-sliding-window-maximum](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0239-sliding-window-maximum) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0424-longest-repeating-character-replacement) |
@@ -61,6 +62,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0076-minimum-window-substring) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -69,6 +71,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0076-minimum-window-substring) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0438-find-all-anagrams-in-a-string) |
