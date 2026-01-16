@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0658-find-k-closest-elements) |
 | [1004-max-consecutive-ones-iii](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/1004-max-consecutive-ones-iii) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -19,6 +20,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0658-find-k-closest-elements) |
 | [1004-max-consecutive-ones-iii](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/1004-max-consecutive-ones-iii) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
