@@ -39,6 +39,7 @@
 | [1200-minimum-absolute-difference](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/1200-minimum-absolute-difference) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [2352-equal-row-and-column-pairs](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/2352-equal-row-and-column-pairs) |
 | [2460-apply-operations-to-an-array](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/2460-apply-operations-to-an-array) |
 ## Two Pointers
 |  |
@@ -158,6 +159,7 @@
 | [0532-k-diff-pairs-in-an-array](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0567-permutation-in-string](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0567-permutation-in-string) |
 | [0763-partition-labels](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0763-partition-labels) |
+| [2352-equal-row-and-column-pairs](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/2352-equal-row-and-column-pairs) |
 ## String
 |  |
 | ------- |
@@ -199,6 +201,7 @@
 | ------- |
 | [0258-add-digits](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0258-add-digits) |
 | [0844-backspace-string-compare](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0844-backspace-string-compare) |
+| [2352-equal-row-and-column-pairs](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/2352-equal-row-and-column-pairs) |
 | [2460-apply-operations-to-an-array](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/2460-apply-operations-to-an-array) |
 ## Monotonic Stack
 |  |
@@ -244,4 +247,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0169-majority-element) |
+## Matrix
+|  |
+| ------- |
+| [2352-equal-row-and-column-pairs](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/2352-equal-row-and-column-pairs) |
 <!---LeetCode Topics End-->
