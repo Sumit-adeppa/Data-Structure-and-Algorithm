@@ -39,6 +39,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/1004-max-consecutive-ones-iii) |
 | [1200-minimum-absolute-difference](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/1200-minimum-absolute-difference) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1732-find-the-highest-altitude](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2352-equal-row-and-column-pairs](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/2352-equal-row-and-column-pairs) |
 | [2460-apply-operations-to-an-array](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/2460-apply-operations-to-an-array) |
@@ -139,6 +140,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/1004-max-consecutive-ones-iii) |
+| [1732-find-the-highest-altitude](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/1732-find-the-highest-altitude) |
 ## Queue
 |  |
 | ------- |
