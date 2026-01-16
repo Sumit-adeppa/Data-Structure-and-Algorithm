@@ -28,6 +28,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/1004-max-consecutive-ones-iii) |
 | [1200-minimum-absolute-difference](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/1200-minimum-absolute-difference) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Two Pointers
 |  |
 | ------- |
