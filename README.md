@@ -165,6 +165,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0258-add-digits) |
 | [0844-backspace-string-compare](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0844-backspace-string-compare) |
 ## Monotonic Stack
 |  |
@@ -174,6 +175,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0009-palindrome-number) |
+| [0258-add-digits](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0258-add-digits) |
 ## Database
 |  |
 | ------- |
@@ -183,4 +185,8 @@
 | [0183-customers-who-never-order](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0183-customers-who-never-order) |
 | [0196-delete-duplicate-emails](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0197-rising-temperature) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
