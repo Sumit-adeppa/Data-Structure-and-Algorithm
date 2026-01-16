@@ -32,6 +32,7 @@
 | [0658-find-k-closest-elements](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0713-subarray-product-less-than-k) |
+| [0724-find-pivot-index](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0724-find-pivot-index) |
 | [0821-shortest-distance-to-a-character](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0821-shortest-distance-to-a-character) |
 | [0881-boats-to-save-people](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0977-squares-of-a-sorted-array) |
@@ -136,6 +137,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0238-product-of-array-except-self) |
 | [0713-subarray-product-less-than-k](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0713-subarray-product-less-than-k) |
+| [0724-find-pivot-index](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/1004-max-consecutive-ones-iii) |
 ## Queue
 |  |
