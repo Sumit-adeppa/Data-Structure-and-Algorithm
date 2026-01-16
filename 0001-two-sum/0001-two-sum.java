@@ -1,11 +1,16 @@
 class Solution {
     public int[] twoSum(int[] nums, int target) {
-        Map<Integer, Integer> map = new HashMap<>();
-        for (int i = 0; i < nums.length; i++) {
-            int comp = target - nums[i];
-            if (map.containsKey(comp)) return new int[]{map.get(comp), i};
-            map.put(nums[i], i);
+        int n = nums.length;
+
+        for (int i = 0; i < n - 1; i++) {
+            for (int j = i + 1; j < n; j++) {
+
+                if (nums[i] + nums[j] == target) {
+                    return new int[]{i, j};   // return indices
+                }
+            }
         }
-        return null;
+
+        return new int[]{}; // no solution (not actually needed on LeetCode)
     }
 }
