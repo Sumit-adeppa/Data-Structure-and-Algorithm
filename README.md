@@ -14,6 +14,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0658-find-k-closest-elements) |
 ## Binary Search
@@ -80,6 +81,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0076-minimum-window-substring) |
+| [0344-reverse-string](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0344-reverse-string) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0438-find-all-anagrams-in-a-string) |
