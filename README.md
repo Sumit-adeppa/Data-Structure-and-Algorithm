@@ -14,6 +14,7 @@
 | [0075-sort-colors](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0088-merge-sorted-array) |
+| [0136-single-number](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0239-sliding-window-maximum) |
@@ -217,5 +218,6 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
