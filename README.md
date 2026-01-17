@@ -32,6 +32,7 @@
 | [0283-move-zeroes](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0303-range-sum-query-immutable) |
 | [0523-continuous-subarray-sum](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0523-continuous-subarray-sum) |
+| [0525-contiguous-array](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0525-contiguous-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0643-maximum-average-subarray-i) |
@@ -153,6 +154,7 @@
 | [0238-product-of-array-except-self](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0303-range-sum-query-immutable) |
 | [0523-continuous-subarray-sum](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0523-continuous-subarray-sum) |
+| [0525-contiguous-array](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0724-find-pivot-index) |
@@ -182,6 +184,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0523-continuous-subarray-sum](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0523-continuous-subarray-sum) |
+| [0525-contiguous-array](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0525-contiguous-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0567-permutation-in-string) |
