@@ -42,6 +42,7 @@
 | [0724-find-pivot-index](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0724-find-pivot-index) |
 | [0821-shortest-distance-to-a-character](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0821-shortest-distance-to-a-character) |
 | [0881-boats-to-save-people](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0881-boats-to-save-people) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/1004-max-consecutive-ones-iii) |
 | [1200-minimum-absolute-difference](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/1200-minimum-absolute-difference) |
@@ -158,6 +159,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0724-find-pivot-index) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/1732-find-the-highest-altitude) |
@@ -189,6 +191,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0567-permutation-in-string) |
 | [0763-partition-labels](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0763-partition-labels) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2352-equal-row-and-column-pairs](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/2352-equal-row-and-column-pairs) |
 ## String
