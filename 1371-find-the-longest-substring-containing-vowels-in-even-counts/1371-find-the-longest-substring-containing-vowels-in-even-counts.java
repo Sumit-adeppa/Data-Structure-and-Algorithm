@@ -17,7 +17,7 @@ class Solution {
             else if (ch == 'u') state ^= (1 << 4);
             // If state seen before, update max length
             if (map.containsKey(state)) maxLen = Math.max(maxLen, i - map.get(state));
-                // Otherwise store first occurrence
+            // Otherwise store first occurrence
             else map.put(state, i);
         }
         return maxLen;
