@@ -1,6 +1,6 @@
 class Solution {
     public int findTheLongestSubstring(String s) {
-         // Map to store first index of each state
+        // Map to store first index of each state
         Map<Integer, Integer> map = new HashMap<>();
         int state = 0;  // 5-bit mask: a,e,i,o,u
         int maxLen = 0;
