@@ -61,6 +61,7 @@
 | [2352-equal-row-and-column-pairs](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/2352-equal-row-and-column-pairs) |
 | [2460-apply-operations-to-an-array](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/2460-apply-operations-to-an-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2951-find-the-peaks](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/2951-find-the-peaks) |
 ## Two Pointers
 |  |
 | ------- |
@@ -333,4 +334,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0014-longest-common-prefix) |
+## Enumeration
+|  |
+| ------- |
+| [2951-find-the-peaks](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/2951-find-the-peaks) |
 <!---LeetCode Topics End-->
