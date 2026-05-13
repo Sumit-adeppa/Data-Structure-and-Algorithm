@@ -96,6 +96,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0219-contains-duplicate-ii) |
@@ -175,6 +176,7 @@
 | [0050-powx-n](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0509-fibonacci-number) |
@@ -365,6 +367,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0258-add-digits) |
 ## Design
 |  |
@@ -403,6 +406,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0204-count-primes) |
 | [2951-find-the-peaks](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/2951-find-the-peaks) |
 ## Backtracking
 |  |
