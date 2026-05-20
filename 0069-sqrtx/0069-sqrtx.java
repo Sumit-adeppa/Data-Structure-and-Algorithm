@@ -18,7 +18,7 @@ class Solution {
     }
 }
 
-/*
+/* Pseudo code:
 function mySqrt(x):
 
     if x == 0:
