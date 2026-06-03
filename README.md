@@ -142,6 +142,7 @@
 | [2460-apply-operations-to-an-array](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/2460-apply-operations-to-an-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2951-find-the-peaks](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/2951-find-the-peaks) |
+| [2965-find-missing-and-repeated-values](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/2965-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
 | ------- |
@@ -171,6 +172,7 @@
 | [1679-max-number-of-k-sum-pairs](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2352-equal-row-and-column-pairs](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/2352-equal-row-and-column-pairs) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2965-find-missing-and-repeated-values](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/2965-find-missing-and-repeated-values) |
 ## Math
 |  |
 | ------- |
@@ -187,6 +189,7 @@
 | [0523-continuous-subarray-sum](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0523-continuous-subarray-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/1248-count-number-of-nice-subarrays) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [2965-find-missing-and-repeated-values](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/2965-find-missing-and-repeated-values) |
 ## Binary Search
 |  |
 | ------- |
@@ -425,6 +428,7 @@
 | [0054-spiral-matrix](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0074-search-a-2d-matrix) |
 | [2352-equal-row-and-column-pairs](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/2352-equal-row-and-column-pairs) |
+| [2965-find-missing-and-repeated-values](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/2965-find-missing-and-repeated-values) |
 ## String Matching
 |  |
 | ------- |
