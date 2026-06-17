@@ -10,16 +10,13 @@ class Solution {
     }
 }
 /*
-    prices = [7, 1, 5, 3, 6, 4]
-    Start: buyPrice = 7, max_Profit = 0
-    i=1: price=1, cur_Profit = 1-7 = -6,  max_Profit=0,  buyPrice=1
-    i=2: price=5, cur_Profit = 5-1 =  4,  max_Profit=4,  buyPrice=1
-    i=3: price=3, cur_Profit = 3-1 =  2,  max_Profit=4,  buyPrice=1
-    i=4: price=6, cur_Profit = 6-1 =  5,  max_Profit=5,  buyPrice=1
-    i=5: price=4, cur_Profit = 4-1 =  3,  max_Profit=5,  buyPrice=1
-    Answer: 5
+| Price | Min Price | Profit | Max Profit |
+| ----- | --------- | ------ | ---------- |
+| 7     | 7         | 0      | 0          |
+| 1     | 1         | 0      | 0          |
+| 5     | 1         | 4      | 4          |
+| 3     | 1         | 2      | 4          |
+| 6     | 1         | 5      | 5          |
+| 4     | 1         | 3      | 5          |
 
-    Two rules per step:
-        1. If cur_Profit beats max_Profit, update max_Profit.
-        2. If today's price is lower than buyPrice, update buyPrice.
 */
