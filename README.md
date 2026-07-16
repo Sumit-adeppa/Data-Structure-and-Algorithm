@@ -185,6 +185,7 @@
 | [0070-climbing-stairs](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0204-count-primes) |
+| [0231-power-of-two](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0509-fibonacci-number) |
@@ -218,6 +219,7 @@
 | [0136-single-number](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0389-find-the-difference) |
@@ -292,6 +294,7 @@
 | [0024-swap-nodes-in-pairs](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0509-fibonacci-number) |
 ## Trie
 |  |
