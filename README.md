@@ -83,6 +83,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0042-trapping-rain-water) |
+| [0046-permutations](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0074-search-a-2d-matrix) |
@@ -431,6 +432,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0022-generate-parentheses) |
+| [0046-permutations](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0078-subsets) |
 ## Matrix
 |  |
