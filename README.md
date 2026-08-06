@@ -84,6 +84,7 @@
 | [0035-search-insert-position](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0074-search-a-2d-matrix) |
@@ -433,6 +434,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0078-subsets) |
 ## Matrix
 |  |
@@ -445,4 +447,8 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
