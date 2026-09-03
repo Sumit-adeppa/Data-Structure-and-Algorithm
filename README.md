@@ -115,6 +115,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0414-third-maximum-number) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0523-continuous-subarray-sum](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0525-contiguous-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -167,6 +168,7 @@
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0523-continuous-subarray-sum](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0525-contiguous-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0532-k-diff-pairs-in-an-array) |
