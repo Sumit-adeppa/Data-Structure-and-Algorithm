@@ -114,6 +114,7 @@
 | [0303-range-sum-query-immutable](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0414-third-maximum-number](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0414-third-maximum-number) |
 | [0523-continuous-subarray-sum](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0525-contiguous-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -248,6 +249,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0389-find-the-difference) |
+| [0414-third-maximum-number](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0414-third-maximum-number) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0658-find-k-closest-elements](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0658-find-k-closest-elements) |
 | [0881-boats-to-save-people](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0881-boats-to-save-people) |
